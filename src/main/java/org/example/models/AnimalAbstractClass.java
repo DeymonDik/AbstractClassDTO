@@ -1,10 +1,11 @@
-package org.example.Model;
+package org.example.models;
 
 import com.fasterxml.jackson.annotation.JsonSubTypes;
 import com.fasterxml.jackson.annotation.JsonTypeInfo;
 import io.swagger.v3.oas.annotations.media.Schema;
 import lombok.Getter;
 import lombok.Setter;
+import org.example.enums.AnimalType;
 
 @Getter
 @Setter
@@ -21,7 +22,7 @@ import lombok.Setter;
 })
 public abstract class AnimalAbstractClass {
 
-    @Schema(description = "Имя", example = "Пися")
+    @Schema(description = "Имя", example = "Лариска")
     private String name;
 
     @Schema(description = "Тип", example = "FOX")

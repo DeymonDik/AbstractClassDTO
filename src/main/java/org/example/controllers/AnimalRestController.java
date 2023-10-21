@@ -1,10 +1,10 @@
-package org.example.Controller;
+package org.example.controllers;
 
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import lombok.RequiredArgsConstructor;
-import org.example.Model.AnimalAbstractClass;
-import org.example.Service.AnimalService;
+import org.example.models.AnimalAbstractClass;
+import org.example.services.AnimalService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

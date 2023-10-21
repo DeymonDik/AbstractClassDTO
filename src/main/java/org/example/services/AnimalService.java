@@ -1,6 +1,6 @@
-package org.example.Service;
+package org.example.services;
 
-import org.example.Model.AnimalAbstractClass;
+import org.example.models.AnimalAbstractClass;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;

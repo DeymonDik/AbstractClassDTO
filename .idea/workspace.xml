@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eabeebfe-7ba3-4cbc-ab59-a0892a4445d6" name="Changes" comment="Master">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/components/ShowURL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/utils/TimeUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Controller/AnimalRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/controllers/AnimalRestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Model/AnimalAbstractClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/models/AnimalAbstractClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Model/AnimalType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/enums/AnimalType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Model/BearClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/models/BearClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Model/FoxClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/models/FoxClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Model/WolfClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/models/WolfClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Service/AnimalService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/services/AnimalService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="eabeebfe-7ba3-4cbc-ab59-a0892a4445d6" name="Changes" comment="Master" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +19,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -131,7 +125,28 @@
       <option name="project" value="LOCAL" />
       <updated>1696518412314</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Master">
+      <created>1697888048187</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697888048187</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Master">
+      <created>1697888093808</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697888093808</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Master">
+      <created>1697888130410</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697888130410</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

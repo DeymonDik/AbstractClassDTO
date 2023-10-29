@@ -6,10 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="eabeebfe-7ba3-4cbc-ab59-a0892a4445d6" name="Changes" comment="Master">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/components/ShowURL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/components/ShowURL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,20 +60,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Iron Man/IdeaProjects/AbstractClassDTO&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Iron Man/IdeaProjects/AbstractClassDTO/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaClassFindUsagesOptions.isDerivedClasses": "true",
+    "JavaClassFindUsagesOptions.isFieldsUsages": "true",
+    "JavaClassFindUsagesOptions.isMethodsUsages": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Iron Man/IdeaProjects/AbstractClassDTO",
+    "onboarding.tips.debug.path": "C:/Users/Iron Man/IdeaProjects/AbstractClassDTO/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Iron Man\IdeaProjects\AbstractClassDTO\.idea" />
@@ -166,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697991132424</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Master">
+      <created>1698060396999</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698060396999</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,6 +201,20 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.util.HashMap$Node" memberName="key" />
+        <PinnedItemInfo parentTag="org.example.controllers.AnimalRestController" memberName="animalService" />
+        <PinnedItemInfo parentTag="org.springframework.boot.ApplicationServletEnvironment" memberName="activeProfiles" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="serverProperties.tomcat.resource" />
+        <watch expression="serverProperties.tomcat.resource" />
+        <watch expression="((SwaggerWebMvcConfigurer)((HashMap.Node)((HashMap)map).entrySet().toArray()[1]).getValue()).swaggerIndexTransformer" custom="java.util.HashMap.Node,org.springdoc.webmvc.ui.SwaggerWebMvcConfigurer,java.util.HashMap" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand>
